@@ -1,11 +1,16 @@
 _repo: Brazil-and-La-Plata-The-personal-record-of-a-cruise_54886
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54886-h/images/cover.jpg
 creator:
   author:
     agent_name: Stewart, C. S.
     gutenberg_agent_id: '48090'
     url: http://www.gutenberg.org/2009/agents/48090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54886#Brazil-and-La-Plata-The-personal-record-of-a-cruise
 gutenberg_issued: '2017-06-11'
 gutenberg_type: Text
 identifiers:
